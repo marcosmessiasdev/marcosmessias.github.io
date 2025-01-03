@@ -43,5 +43,19 @@
    "type": "image/png",
    "density": "4.0"
   }
- ]
+ ],
+ "screenshots": [
+    {
+      "src": "/img/screenshot1.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/img/screenshot2.jpg",
+      "type": "image/jpg",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
 }
